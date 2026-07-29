@@ -1,8 +1,6 @@
-# ME507 — Voice & Vision Controlled 3-DoF Robotic Arm
+# Voice & Vision Controlled 3-DoF Robotic Arm
 
 By: Evan Tran, Lucas Kaemmerer
-
-ME 507 - Charlie Refvem
 
 California Polytechnic State University, San Luis Obispo
 
@@ -22,7 +20,7 @@ Code Repository: ([page link](https://github.com/psp-player/ME507)).
 
 Video of Arm Function:
 
-[![Watch the video](https://img.youtube.com/vi/eV6sloEoMP8/maxresdefault.jpg)](https://youtu.be/eV6sloEoMP8)
+[![Watch the video](https://img.youtube.com/vi/eV6sloEoMP8/maxresdefault.jpg)]()
 
 
 ---
@@ -104,7 +102,7 @@ A custom 4-layer board carries the MCU, the three TMC2240 drivers, power regulat
 ![Figure 8. PCB 3D Render](./images/pcbboard.png)
 
 
-![Figure 9. Actual PCB](./images/pcb.jpg)
+![Figure 9. Actual PCB](./images/pcb.JPG)
 
 ### Mechanical Design
 The RRR linkage uses link lengths of **D1 = 145 mm** (base height), **L1 = 170 mm** (upper arm), and **L2 = 245 mm** (forearm, measured to the tool point), giving a workspace of roughly L1 + L2 from the shoulder pivot.
