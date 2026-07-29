@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "ME507 Final Project", "index.html", [
-    [ "ME507 — Voice & Vision Controlled 3-DoF Robotic Arm", "md_README.html", [
+    [ "Voice & Vision Controlled 3-DoF Robotic Arm", "md_README.html", [
       [ "Table of Contents", "md_README.html#autotoc_md4", null ],
       [ "System Overview", "md_README.html#autotoc_md6", [
         [ "Objective", "md_README.html#autotoc_md7", null ]
