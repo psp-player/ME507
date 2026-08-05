@@ -19,7 +19,7 @@ Code Repository: ([page link](https://github.com/psp-player/ME507)).
 ---
 
 Video of Arm Function:
-https://github.com/user-attachments/assets/f9766003-a30f-4079-95fb-3430d790052e
+[Robot Arm](https://github.com/user-attachments/assets/f9766003-a30f-4079-95fb-3430d790052e)
 
 
 ---
