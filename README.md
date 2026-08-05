@@ -19,8 +19,7 @@ Code Repository: ([page link](https://github.com/psp-player/ME507)).
 ---
 
 Video of Arm Function:
-
-[![Watch the video](https://img.youtube.com/vi/eV6sloEoMP8/maxresdefault.jpg)]()
+https://github.com/user-attachments/assets/f9766003-a30f-4079-95fb-3430d790052e
 
 
 ---
